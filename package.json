@@ -29,6 +29,8 @@
       "client": "client/entry-meteor.js",
       "server": "server/entry-meteor.ts"
     },
+    "modernWebArchsOnly": true,
+    "modernTranspiler": true,
     "testModule": "tests/main.js",
     "vite": {
       "configFile": "vite.config.mts"
